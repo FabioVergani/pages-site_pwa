@@ -1,0 +1,17 @@
+{
+	"name": "myPWA - claim",
+	"short_name": "myPWA",
+	"description": "Lorem ipsum",
+	"start_url": "/",
+	"display": "standalone",
+	"theme_color": "#ffffff",
+	"background_color":"#ffffff",
+	"icons": [
+		{
+			"sizes": "512x512",
+			"type": "image/svg+xml",
+			"purpose": "any maskable",
+			"src": "icon.svg"
+		}
+	]
+}
